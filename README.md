@@ -59,7 +59,7 @@ And if you would like to try out some more features:
 
 Alternative reviews are available via online search engines from the below sites (**thanks**):
 
-- CHIP, ghacks.net, Lifehacker, MakeUseOf, Softpedia, Techniqued, 電腦玩物
+- Additive Tips, CHIP, ghacks.net, Lifehacker, MakeUseOf, Softpedia, Techniqued, 電腦玩物
 
 ---
 
