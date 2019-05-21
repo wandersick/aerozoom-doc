@@ -79,7 +79,7 @@ Alternative reviews are available via online search engines from the below sites
     - To minimize AeroZoom to tray, simply close it or click [hide] button on the panel; to exit, click [quit]
 
 5. Besides presentations, another usage is capturing screen videos for tutorial purpose. Where normally it would take a lot of work learning and using professional video editors such as Adobe Premiere to zoom in, with AeroZoom, however, simply zoom in with the magnifier hidden during recording and it&#39;s done. No post-production required. <br><br>
-(More tips available in AeroZoom via Startup Tips option or program directory 'Data\Tips_and_Tricks.txt')
+(More tips available [here at 100+ Tips](https://github.com/wandersick/aerozoom-doc/blob/master/100%2BTips.md), or in AeroZoom via Startup Tips option)
 
      ![](https://i1.gallery.technet.s-msft.com/aerozoom-the-smooth-wheel-e0cdf778/image/file/189141/1/aerozoom-v1-gui_1.png "Accessing Windows Magnifier functions from AeroZoom panel")
 
@@ -129,7 +129,7 @@ Whereas AeroZoom improves Windows Magnifier, a sub-feature of AeroZoom, AeroSnip
 - Right-clicking the AeroZoom Panel switches between full (Modern) and minimalist (Classic) view of the Panel
 - Single-clicking the tray icon or the &#39;off&#39; button on Panel turns off/on AeroZoom temporarily in an easy way
 - Center Zoom (experimental)
-- Installable, portable and open-source (scripted in AutoHotkey)
+- Both installable and portable (scripted in AutoHotkey)
 - And more!
 
 ![](https://i1.gallery.technet.s-msft.com/aerozoom-the-smooth-wheel-e0cdf778/image/file/188396/1/5582608335_014892905b_b-001.jpg "AeroZoom sub-menus including quick instructions") 
