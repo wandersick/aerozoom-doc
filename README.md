@@ -158,3 +158,7 @@ Whereas AeroZoom improves Windows Magnifier, a sub-feature of AeroZoom, AeroSnip
 **Note**: AeroZoom works better with administrator rights. If UAC is on, it asks for rights to elevate itself automatically.
 
 For more information, read the [README](https://github.com/wandersick/aerozoom-doc/tree/master/README) and [100+ tips](https://github.com/wandersick/aerozoom-doc/blob/master/100%2BTips.md).
+
+## Donation
+
+If AeroZoom or my other free utilities help you, consider donating $1 at https://about.me/wandersick which would be encouraging and much appreciated.
