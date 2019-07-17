@@ -5,6 +5,12 @@ Scripted in AutoHotkey, AeroZoom enhances upon Windows Magnifier and optionally 
 For download of the latest version, visit Microsoft TechNet Gallery:
 - https://gallery.technet.microsoft.com/AeroZoom-The-smooth-wheel-e0cdf778
 
+## Become a Beta Tester for AeroZoom 5.0
+
+See a list of upcoming AeroZoom 5.0 features [here](./AeroZoom_5.0_Features.md).
+
+If you are interested in being a beta tester, email <a href="mailto:wandersick@gmail.com">wandersick@gmail.com</a>. Thank you!
+
 ## Main Features
 
 1. Enables full-screen zooming via mouse wheel or pinch-to-zoom in Windows (like OS X) with multiple zoom modes: Reverse Zoom, Elastic Zoom, etc.
