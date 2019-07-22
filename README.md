@@ -164,3 +164,12 @@ Whereas AeroZoom improves Windows Magnifier, a sub-feature of AeroZoom, AeroSnip
 **Note**: AeroZoom works better with administrator rights. If UAC is on, it asks for rights to elevate itself automatically.
 
 For more information, read the [README](https://github.com/wandersick/aerozoom-doc/tree/master/README) and [100+ tips](https://github.com/wandersick/aerozoom-doc/blob/master/100%2BTips.md).
+
+## Workarounds to Known Issues
+
+The below issues have been identified and will be fixed in the upcoming AeroZoom 5.0. For now, please refer to the below workarounds:
+
+- AeroZoom `Setup.exe` does not uninstall itself cleanly, leaving `Setup.exe` and `AeroZoom_*x64.exe` files in the installation directory
+  - **Workaround**: They can be manually removed if desired
+- `zoomit.exe` cannot be downloaded by AeroZoom as the included `wget.exe` utility is out of date
+  - **Workaround**: Simply download [zoomit.exe](https://live.sysinternals.com/zoomit.exe) manually
