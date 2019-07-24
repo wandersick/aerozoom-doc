@@ -1,9 +1,12 @@
 # AeroZoom – a smooth wheel-zooming mouse-enhancing panel
 
+> This repository contains documentation only. For AeroZoom releases, visit its main repository at https://github.com/wandersick/aerozoom
+
 Scripted in AutoHotkey, AeroZoom enhances upon Windows Magnifier and optionally Sysinternals ZoomIt to enable screen magnification by mouse-wheeling, as well as turning any mouse into a Home-Theater PC/presentation mouse, where zooming and positioning becomes a breeze without a keyboard.
 
 For download of the latest version, visit Microsoft TechNet Gallery:
 - https://gallery.technet.microsoft.com/AeroZoom-The-smooth-wheel-e0cdf778
+
 
 ## Become a Beta Tester for AeroZoom 5.0
 
