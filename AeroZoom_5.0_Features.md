@@ -4,6 +4,8 @@ The next version of AeroZoom (5.0) will be available after the testing phase, wh
 
 ![AeroZoom 5.0 UI](images/aerozoom-5.0-ui.png)
 
+Last updated: 24 Sep 2019 (changes are *italicized*)
+
 AeroZoom 5.0 Features (TBC)
 
 - Hide Magnifier Glass
@@ -51,6 +53,10 @@ AeroZoom 5.0 Features (TBC)
 - Deprecation of AeroSnip
   - AeroSnip feature is now deprecated (remains supporting Vista and 7) due to certain issues it has with Snipping Tool of recent Windows releases, as well as its uncertain future having been deprecated by Microsoft in late 2018
 
+- *Integration with other wandersick utilities*
+
+  - *Add options for [ChMac](https://github.com/wandersick/chmac) and [Enhanced Command Prompt Portable (ECPP)](https://github.com/wandersick/enhanced-command-prompt-portable)*
+  
 - Bug Fixes
 
   - AeroZoom `Setup.exe`, while uninstalls successfully, fails to delete AeroZoom_*x64.exe files due to being in use
@@ -58,3 +64,4 @@ AeroZoom 5.0 Features (TBC)
   - Download failure of `zoomit.exe`
   - Update checker inaccurately reports an update exists
   - Holding middle button triggers new snip despite being configured not to in the last release
+  - *Hotkeys e.g. 'Left+Right' are not completely disabled even when set to 'None' via 'Custom Hotkey' options*
