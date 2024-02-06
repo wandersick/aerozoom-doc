@@ -95,5 +95,3 @@
 1. Limitation: Smart Click Disabler (available since v5.0) only supports the below modifiers: Left Mouse Button, Right Mouse Button, X1 Mouse Button (Browser Back), X2 Mouse Button (Browser Forward)
 1. Limitation: AeroSnip (based on Snipping Tool) may not be further developed as the feature is deprecated by Microsoft (in Windows 10 1809) and may be removed in future versions of Windows
 1. AeroZoom supports both Windows Magnifier and Sysinternals ZoomIt. For Magnification, Windows Magnifier is recommended being more smooth, but ZoomIt can be leveraged for other features that it provides such as on-screen drawing, still zoom, and timer
-
-Source: https://tech.wandersick.com/2020/04/100-tips-for-aerozoom.html
